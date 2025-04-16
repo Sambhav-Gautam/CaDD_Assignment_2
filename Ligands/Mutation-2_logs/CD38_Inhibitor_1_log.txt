@@ -14,4 +14,23 @@
 
 Detected 12 CPUs
 WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
-Reading input ... 
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -384384536
+Performing search ... done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -6.5      0.000      0.000
+   2         -6.3      3.711      8.291
+   3         -6.1      1.661      2.444
+   4         -6.1      3.380      7.983
+   5         -5.4      4.187      9.860
+   6         -5.1      3.876      7.918
+   7         -5.1      3.535      8.107
+   8         -5.0      3.661      7.767
+   9         -5.0      3.212      5.631
+Writing output ... done.
